@@ -5,6 +5,8 @@ how to add wind visualizations in emoncms
 
 The goal is to propose new vizualisations for emoncms.
 
+## Process
+
 In process repository you can find new versions of process_model.php and process_info.js. This add two process :
  - Log wind direction :
 Convert degre in axis position (ex: N=0,E=90,S=180,W=270). The argument is the number of columns (8,16,32).
@@ -16,6 +18,6 @@ Convert the wind speed value to a column. (each column = 0,25 m/s)
 
 ![Wind rose](wind rose/windrose.png)
 
-## distribution of wind speed frequencies.
+## Distribution of wind speed frequencies.
 
 ![distribution of wind speed frequencies](windspeed frequencies/windspeed.png)
