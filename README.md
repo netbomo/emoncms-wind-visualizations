@@ -1,6 +1,8 @@
 # emoncms-wind-visualizations
 how to add wind visualizations in emoncms
 
+**work is not finnish, test it, but I need some help to clean displays and code.**
+
 The goal is to propose new vizualisations for emoncms.
 
 In process repository you can find new versions of process_model.php and process_info.js. This add two process :
