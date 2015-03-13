@@ -24,3 +24,4 @@ Convert the wind speed value to a column. (each column = 0,25 m/s)
 
 ## Installation
 
+[Read wiki's page](https://github.com/netbomo/emoncms-wind-visualizations/wiki)
