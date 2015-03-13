@@ -21,6 +21,3 @@ Convert the wind speed value to a column. (each column = 0,25 m/s)
 ## Distribution of wind speed frequencies.
 
 ![distribution of wind speed frequencies](windspeed frequencies/windspeed.png)
-
-## Installation
-
