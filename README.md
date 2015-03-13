@@ -16,11 +16,11 @@ Convert the wind speed value to a column. (each column = 0,25 m/s)
 
 ## Wind rose
 
-![Wind rose](wind rose/windrose.png)
+![Wind rose](images/windrose.png)
 
 ## Distribution of wind speed frequencies.
 
-![distribution of wind speed frequencies](windspeed frequencies/windspeed.png)
+![distribution of wind speed frequencies](images/windspeed.png)
 
 ## Installation
 
