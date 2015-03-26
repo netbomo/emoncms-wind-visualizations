@@ -190,11 +190,11 @@ $(function() {
         series:{ 
             rose: { 
                 active:true,
-                drawGrid:{
-                    gridMode: "ticks",
-                    labelPos: 12,
-                    drawValue: false
-                },
+//                drawGrid:{
+//                    gridMode: "ticks",
+//                    labelPos: 12,
+//                    drawValue: false
+//                },
 				dataMin :0,
 				dataMax : datamax
             } 
