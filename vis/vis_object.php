@@ -109,5 +109,18 @@
         'compare' => array ('label'=>_("Compare"), 'action'=>'compare', 'options'=>array(
             array('powerx',_("powerx"),1),
             array('powery',_("powery"),1)
-        ))
+        )),
+
+	'windspeed'=> array('label'=>_("Windspeed"),'options'=>array(
+		array('feedid',_("feedid"),0),
+		array('barwidth',_("barwidth"),7,2),
+		array('units',_("units"),5,''),
+		array('dp',_("dp"),7,'1')
+	)),
+
+	'windrose'=> array('label'=>_("Windrose"),'options'=>array(
+		array('wsfeedid',_("fwseedid"),0),
+		array('wdfeedid',_("wsfeedid"),0),
+		array('barwidth',_("barwidth"),7,2)
+	))
     );
